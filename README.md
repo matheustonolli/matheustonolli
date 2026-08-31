@@ -2,7 +2,7 @@
 
 Sou estudante de **Engenharia de Software** na Católica de Santa Catarina e Técnico em Informática pelo CEDUP Joinville.
 
-Atualmente estou desenvolvendo meus conhecimentos em desenvolvimento de software, com maior interesse no ecossistema **C# e .NET**.
+Atualmente estou aprimorando meus conhecimentos em desenvolvimento de software, com maior interesse no ecossistema C# e .NET.
 
 ## 🛠️ Tecnologias
 
@@ -17,7 +17,7 @@ Atualmente estou desenvolvendo meus conhecimentos em desenvolvimento de software
 
 🎓 Engenharia de Software — Católica de Santa Catarina  
 📍 Joinville, SC — Brasil  
-💻 Desenvolvendo projetos pessoais e acadêmicos para aprimorar minhas habilidades
+💻 Desenvolvendo projetos pessoais e acadêmicos em software
 
 ## 🚀 Projetos
 
